@@ -99,45 +99,45 @@ This project follows a structured, end-to-end data workflow:
 
 ## 📊 Results
 
-### | 1. Sales Order ID Statistics |
-|-----------------------|
-| ![Sales ID Stats](Results/sales_id_stats.png) |
-| Distribution and uniqueness analysis of sales order IDs. |
+| 1. Sales Order ID Statistics |
+|-------------------------------|
+| ![Sales Order ID Statistics](Results/sales_id_stats.png) |
+| Distribution and uniqueness analysis of SalesOrderID to validate order-level data integrity across multiple years. |
 
 ---
 
-### | 2. Product ID Statistics |
-|-----------------------|
-| ![Product ID Stats](Results/product_id_stats.png) |
-| Product-level distribution used to validate data consistency. |
+| 2. Product ID Statistics |
+|-------------------------------|
+| ![Product ID Statistics](Results/product_id_stats.png) |
+| Product-level distribution analysis used to ensure consistency and detect irregularities in product records. |
 
 ---
 
-### | 3. Order Quantity Statistics |
-|-----------------------|
-| ![Order Quantity Stats](Results/order_qty_stats.png) |
-| Analysis of quantities sold to identify unusual patterns. |
+| 3. Order Quantity Statistics |
+|-------------------------------|
+| ![Order Quantity Statistics](Results/order_qty_stats.png) |
+| Statistical analysis of order quantities to identify abnormal values and validate sales volume accuracy. |
 
 ---
 
-### | 4. Unit Price Statistics |
-|-----------------------|
-| ![Unit Price Stats](Results/unit_price_stats.png) |
-| Price profiling used to detect and remove outliers. |
+| 4. Unit Price Statistics |
+|-------------------------------|
+| ![Unit Price Statistics](Results/unit_price_stats.png) |
+| Unit price profiling used to detect pricing outliers and remove anomalous records impacting sales metrics. |
 
 ---
 
-### | 5. Data Model |
-|-----------------------|
-| ![Data Modeling](Results/data_modeling.png) |
-| Clean one-to-many relationship between Orders and Order Details. |
+| 5. Data Model |
+|-------------------------------|
+| ![Data Model](Results/data_modeling.png) |
+| One-to-many data model establishing a clean relationship between Orders and Order Details tables. |
 
 ---
 
-### | 6. Final Sales Dashboard |
-|-----------------------|
-| ![Sales Dashboard](Results/adventureworks_sales_dashboard.png) |
-| Final Power BI dashboard summarizing sales performance. |
+| 6. Final Sales Dashboard |
+|-------------------------------|
+| ![Final Sales Dashboard](Results/adventureworks_sales_dashboard.png) |
+| Interactive Power BI dashboard presenting key sales KPIs, trends, and product-level performance insights. |
 
 ---
 
