@@ -52,8 +52,6 @@ The project uses **three Excel files**:
 - **Power BI Desktop**
 - **Power Query Editor**
 - **DAX (Data Analysis Expressions)**
-- **Microsoft Excel**
-- **GitHub (Version Control & Portfolio Hosting)**
 
 ---
 
