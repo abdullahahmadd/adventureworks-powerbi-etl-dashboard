@@ -154,5 +154,3 @@ This project was completed as part of the **Microsoft Power BI Data Analyst Prof
 It is designed to showcase **practical ETL, modeling, and reporting skills** in a real-world business scenario.
 
 ---
-
-⭐ If you find this project useful, feel free to star the repository!
