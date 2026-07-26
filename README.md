@@ -1,4 +1,4 @@
-# 📶 AdventureWorks ETL Dashboard (Power BI)
+# 📶 AdventureWorks Sales ETL & Analytics Dashboard
 ### 🎓 Microsoft Power BI Data Analyst Specialization - Portfolio Project
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahahmadd.adventureworks-powerbi-etl-dashboard)
